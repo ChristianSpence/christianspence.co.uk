@@ -1,0 +1,18 @@
+---
+title: "Happy new (academic) year!"
+author: "Christian Spence"
+date: "2018-09-01"
+categories: [analytics, data, economics, industrial strategy, policy]
+---
+
+Whether in business, academia or much else of the world. the first of September feels like the start of a new year. In schools, colleges and universities, preparations are being made for a new academic year and, with the rest of the world returning from what they hope have been long and restful holidays, attention is turned to new starts, new ventures, and the anticipation of a productive ‘push’ to the Christmas break.
+
+It’s much the same for me. After changing jobs in April, moving from the business world to academia, I’ve spent my first few months beginning to understand what, for me, is a very different world from my previous employment, as well as realising that it shares many of the same hopes and challenges. The summer has been spent in a combination of reading, writing and, most recently, resting, and now, as attention turns to the unflux of nearly 40,000 students in a few weeks, I’m busy launching a new research unit, Future Economies Analytics, within my research centre and finally updating my own website.
+
+I’ll talk about this in more detail over the coming days, as well as pondering on some aspects of the UK economy that struck me during my holidays as I toured around parts of the country, but Future Economies Analytics will be a unique addition to the university sector research space, focusing on secondary micro-data analysis and forecasting for sub-regional economies across the UK.
+
+Whilst George Osborne’s ‘devolution revolution’ has slowed down over recent years and government grapples with Brexit, increasing attention continues to turn to cities, to towns, to rural areas; to transport connectivity that goes beyond city-to-city commutes and begins to understand the role of buses; to inclusive growth and the ‘left-behinds’; to the future of the UK outside the European Union; to what a local industrial strategy means; and, perhaps the biggest challenge, what type of economy should the UK and its constiteunt parts (both devolved nations and local government) seek to develop over the coming decade.
+
+Future Economies University Research Centre at Manchester Metropolitan University, where I now work, is working on these and more questions, seeking to answer the core question “what are the challenges that future economies face, and how should policy makers respond to them?’. Within that, my team will be working on exitsing and innovative new datasets and cuting-edge statistical techniques to help answer these questions, and we’ll be publishing regularly with traditional academic papers, but also more accessible policy white papers, research documents, blogs and podcats, interactive charts, spatial mapping and live forecasting models.
+
+All that’s to come but, for now, follow me personally on this website or on Twitter at @ChristianSpence. Future Economies Analytics tweets at @MMU_FEAnalytics, the wider research centre at @MMU_FutureEcon, and its (temporary: new one coming soon!) website can be found at www.mmu.ac.uk/research/our-research/future-economies. Future Economies will formally be launching later in the autumn and if you’d like to be kept up-to-date with developments and our news, contact me via any of the above and we’ll add you to our mailing list.

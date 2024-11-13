@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Christian Spence"
+  navbar:
+    pinned: true
+    left:
+      - about.qmd
+      - biography.qmd
+      - blog.qmd
+      - research-publications.qmd
+      - publications-elsewhere.qmd
+    right:
+      - text: "Economic Analytics"
+        href: https://economic-analytics.co.uk
+      - icon: twitter-x
+        menu:
+          - text: Christian Spence
+            href: https://x.com/ChristianSpence
+          - text: Economic Analytics
+            href: https://x.com/EconAnalyticsUK
+      - icon: linkedin
+        menu:
+          - text: Christian Spence
+            href: https://linkedin.com/in/christianspence
+          - text: Economic Analytics
+            href: https://linkedin.com/company/economic-analytics
+      - icon: github
+        menu:
+          - text: Christian Spence
+            href: https://github.com/ChristianSpence
+          - text: Economic Analytics
+            href: https://github.com/economic-analytics
+          - text: Website source code
+            href: https://github.com/ChristianSpence/christianspence.co.uk
+format:
+  html:
+    theme: default
+    css: styles.css

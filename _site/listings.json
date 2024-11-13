@@ -1,0 +1,41 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2022-11-18-autumn-statement-2022/index.html",
+      "/posts/2022-09-23-fantasy-economics-from-a-fantastist-government/index.html",
+      "/posts/2022-09-08-reaction-to-governments-energy-price-cap-announcement/index.html",
+      "/posts/2019-11-19-tory-business-taxes-stopped-having-a-laffer/index.html",
+      "/posts/2018-09-05-capturing-the-benefits-of-the-visitor-economy/index.html",
+      "/posts/2018-09-04-taking-back-control/index.html",
+      "/posts/2018-09-02-thoughts-from-an-english-vacation/index.html",
+      "/posts/2018-09-01-happy-new-academic-year/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/2022-11-18-autumn-statement-2022/index.html",
+      "/posts/2022-09-23-fantasy-economics-from-a-fantastist-government/index.html",
+      "/posts/2022-09-08-reaction-to-governments-energy-price-cap-announcement/index.html",
+      "/posts/2019-11-19-tory-business-taxes-stopped-having-a-laffer/index.html",
+      "/posts/2018-09-05-capturing-the-benefits-of-the-visitor-economy/index.html",
+      "/posts/2018-09-04-taking-back-control/index.html",
+      "/posts/2018-09-02-thoughts-from-an-english-vacation/index.html",
+      "/posts/2018-09-01-happy-new-academic-year/index.html"
+    ]
+  },
+  {
+    "listing": "/publications-elsewhere.html",
+    "items": [
+      "/others/a-city-well-placed-to-prosper.html",
+      "/others/centre-for-cities-needs-a-fair-hearing.html",
+      "/others/retail-in-manchester-city-centre.html",
+      "/others/take-the-bus.html",
+      "/others/taxing-online-sales-is-not-the-solution.html",
+      "/others/the-digital-future-what-should-business-know.html",
+      "/others/the-seven-deadly-sins-of-business-rates.html",
+      "/others/the-subtle-yet-important-difference-between-policy-and-politics.html"
+    ]
+  }
+]

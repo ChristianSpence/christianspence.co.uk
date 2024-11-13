@@ -1,0 +1,15 @@
+---
+title: "Income vs productivity (or types of wealth and poverty)"
+author: "Christian Spence"
+date: "2022-09-02"
+categories: [devolution, taxation, business rates, tourism tax]
+draft: true
+---
+
+<!-- wp:paragraph -->
+<p>Inspired by the launch of two new research papers from the Resolution Foundation as part of their Economy 2030 inquiry, and in particular by a comment from Torsten Bell that some places that look economically weak are in fact rather rich because of the make up of the economy and residents of the area. The example was, I think, North Norfolk, which is both rather rural with no principal economic centres and where around half of the residents are retired, though with good incomes in retirement. It's a good reminder that we can't (or at least perhaps <em>shouldn't</em>) look at place solely through the GVA lens and assume that those areas with weaker than average economic output don't have the ability to sustain their own local economies.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So, to investigate this a little further, I dived into the ONS data on GVA and Gross Disposable Household Income at a local authority level, normalising them both on a per capita basis. Perfect for a bivariate choropleth map (and thanks to the authors of the {biscale} package for R) so you end up with <a href="https://christianspence.github.io/rgva-rgdhi.html">this</a>.</p>
+<!-- /wp:paragraph -->

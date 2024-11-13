@@ -1,0 +1,27 @@
+---
+title: "Biography"
+---
+
+Christian is an economist and data scientist with a passion for, and over 15 years' experience in, public policy.
+
+In September 2022 he founded his own consultancy practice, [Economic Analytics](https://www.economic-analytics.co.uk), and is also Economic Data Lead at [Open Innovations Ltd](https://www.open-innovations.org), a #RadicallyOpen not-for-profit organisation that helps people and organisations do more with data, Chief Economist and Fellow at [The Institute of Place Management](https://www.placemanagement.org/), a Fellow of the [Royal Society of Arts](https://www.thersa.org/) and a Member of the [Regional Studies Association](https://www.regionalstudies.org/).
+
+In 2018 Christian joined Manchester Metropolitan University as a Reader in Economic Analytics, based full-time within the new Future Economies University Centre for Research & Knowledge Exchange where he was Head of Economic Data & Analytics. In this role he led a dedicated unit within the research centre focused on data analysis and visualisation, forecasting and modelling to both commercial clients and to support the wider research of the centre and the university.
+
+Before moving to academia, Christian worked in both the public and private sectors including Manchester City Council’s economic and urban policy unit and later at Core Cities UK where he worked in political engagement, successfully drafting and lobbying for amendments to the Localism Act 2011 on devolution policy.
+
+From 2011, his role as research manager and later as head of research and policy at Greater Manchester Chamber of Commerce – the UK’s largest Chamber – included the establishment of a commercial research function whose clients included DHL, Duff & Phelps, Heathrow Airport and Manchester Airports Group. Managing a team of analysts and economists, he developed innovative and accessible economic analyses and built a full commercial research unit with specialisms in primary and secondary research, sub-regional economies (including modelling and forecasting), economic impact studies, micro-economic analysis, tax policy and its effects on business growth, the role of skills within economic growth and policy consultancy, all underpinned by a deep expertise in large-scale data analytics.
+
+In 2013 with his team he developed a ground-breaking new research methodology championed by government and industry to better understand and forecast supply-side constraints in labour and skills and more accurately modelling medium-term demand in the construction sector (including quantifying supply and demand mismatch at an individual trade level), from which HM Treasury’s Infrastructure Plan for Skills 2015 drew heavily. 
+
+His work on regional economic analysis resulted in his appointment in 2014 as one of the first Fellows of the British Chambers of Commerce (BCC) where he lead the research and advocacy activity of the national organisation on business rates reform and the supporting of better collection, analysis and interpretation of economic survey data across the UK.
+
+He developed a cross-industry group of business organisations to support HM Treasury in its development of business rates reform and supported a separate group including public sector bodies and local authorities to ensure full representation in the policy design recommendations His work on regional economic analysis led to regular meetings with HM Treasury, the Department for Business, Energy & Industrial Strategy, and the Bank of England on sub-national economic performance and analysis. He joined the BCC’s National Economic Forecasting Group in 2017.
+
+During 2016 and 2017, he served as an expert contributor to the RSA’s Citizens’ Economic Council, for which he was awarded the Fellowship of the Royal Society of Arts.
+
+His research interests are centred on the intelligent use of rich data sources to better shape political narratives and to support the design and evaluation of sub-national economic policy strategies. He is working on a paper looking at the micro-economic effects of the theory of the capitalisation of business rates on business destruction.
+
+His earlier years included building two businesses alongside a professional musical career.
+
+He is a Fellow of both the Royal Society of Arts and of the Institute of Place Management, and a member of the Regional Studies Association. He tweets at @ChristianSpence and blogs at www.christianspence.co.uk and most of his research can be found on this site or at https://github.com/ChristianSpence.

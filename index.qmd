@@ -1,0 +1,22 @@
+---
+title: "Home"
+listing:
+  id: blog-overview
+  contents: posts
+  sort: "date desc"
+  type: grid
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+## About me
+
+I'm an economist and data scientist with over 15 years' experience of working in and around public policy. I've worked in local government, think tanks, business organisations and academia and, since September 2002, run my own consultancy practice, [Economic Analytics](https://www.economic-analytics.co.uk).
+
+I'm particularly interested in local government, taxation, industrial strategy and regional economics, publishing as much of my work in the open as I can. I'm also an active and experienced user and developer in [#Rstats](https://www.r-project.org), including in production environments.
+
+## Recent blog posts
+
+::: {#blog-overview}
+:::

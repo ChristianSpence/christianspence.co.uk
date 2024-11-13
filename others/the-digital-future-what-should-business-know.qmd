@@ -1,0 +1,29 @@
+---
+title: "The digital future: what should business know?"
+---
+
+_This was first published in Prospect Magazine supplement ()_
+
+The revenue doesn’t need to design an app. The private sector will do it anyway
+
+At the Greater Manchester Chamber of Commerce, we are constantly refining our ideas about infrastructure. Historically we would, of course, talk about road, rail and energy. More recently, digital has emerged as an additional strand.
+
+But this approach has its challenges and, for us, reinforces a problem at the heart of government decision-making on projects: it’s too easy to focus on the project itself, and not what it aims to achieve. Big, shiny new projects give photo opportunities for ministers in high-vis vests and hardhats. But much more important are the benefits that a project offers.
+
+If only government thought in this way. Perhaps then we would see more small-scale schemes with good, quick results at the margins instead of the profusion of large-scale transformative plans, with their promise of political dividends.
+
+Similar problems emerge with the government’s approach to data. The UK’s official statistical body, the Office for National Statistics (ONS), has remarkable limits on its ability to access data from other government departments, something that many other countries’ agencies take for granted. While our own government’s approach is changing, and the ONS itself is making good progress in refining its product, much good work in the private sector is held back by overly-rigid interpretations of data protection law or by a lack of dynamism in agencies in publishing the data they hold.
+
+Some authorities are leading the way in providing dedicated data portals and being as open as they can. Working with a variety of bodies, organisations like the Open Data Institute, Data Mill North and Open Data Manchester are showing what can be done, with a genuinely open attitude to releasing as much information as possible into the public domain. This includes some excellent online tools for visualisation and mapping. Even those without the increasingly-important ability to format data in a digestible way, can begin to learn from its provision.
+
+But what should be published, and how can it be used by business? The short answer is we don’t really know, and that we need to use the open market to help us discover the answer. The last few years have seen rapid progress in the data application market. Even HMRC expects that it won’t have to design apps for its making tax digital programme—private developers will do it anyway. This suggests that the more data that can be provided, and made available in an open, machine-readable format with as few restrictions as possible, the more likely we are to learn what data can be put to useful ends.
+
+> “Government can help by publishing its data so that it can be more easily used by private organisations and individuals”
+
+This presents a huge challenge for organisations in determining what resources they should put into data publication. For those with modern IT infrastructure and good business processes, the extraction of anonymised data on a large scale should be easy. But, for businesses where high-quality information is not readily collected and analysed, collating and publishing their own data will be expensive. But, overall, the number of organisations in the latter group is falling a trend that should continue as data management systems become more widely available.
+
+Government, both local and national, can help by publishing its data so that it can be more easily used by private organisations and individuals. Recent work by the Cabinet Office in its Open Standards Principles is a good starting point and should, over time, lead to significant improvements. However, it is overly focused on procurement and there is a risk that, in aiming for an all-encompassing standard, the release of data into the public domain could be delayed—the perfect becoming the enemy of the good.
+
+Above all, it is leadership within organisations that will drive greater success. It will need to strike a balance between confidentiality and the willingess to publish data that is of value to the wider marketplace. This will differ from place to place. The ultimate practical uses of data may be developed in areas only remotely connected to the purpose for which the data was initially collected.
+
+It’s a new world where the opportunities are not always clear. But that doesn’t mean we mustn’t, or shouldn’t, try. The future should be open.
