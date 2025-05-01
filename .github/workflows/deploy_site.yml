@@ -9,12 +9,12 @@ jobs:
     steps:
     - name: 🚚 Checkout repository
       uses: actions/checkout@v4
-    
-    - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+
+    - name: SSH Sync Action
+      uses: Lexty/ssh-sync-action@v1.0.0
       with:
-        server: ${{ secrets.CS_FTP_SERVER }}
-        username: ${{ secrets.CS_FTP_USERNAME }}
-        password: ${{ secrets.CS_FTP_PASSWORD }}
-        local-dir: _site/
-        server-dir: public_html/
+        host: ${{ secrets.EA_SFTP_SERVER }}
+        user: ${{ secrets.EA_SFTP_USERNAME }}
+        key: ${{ secrets.EA_SFTP_SSH }}
+        rsync_upload: |
+          ./_site/ => /opt/sites/christianspence.co.uk/
