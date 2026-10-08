@@ -15,28 +15,45 @@ website:
     right:
       - text: "Economic Analytics"
         href: https://economic-analytics.co.uk
+        target: _blank
       - icon: bluesky
-        href: https://bsky.app/profile/christianspence.co.uk
+        menu:
+          - text: Christian Spence
+            href: https://bsky.app/profile/christianspence.co.uk
+            target: _blank
+          - text: Economic Analytics
+            href: https://bsky.app/profile/economic-analytics.co.uk
+            target: _blank
       - icon: twitter-x
         menu:
           - text: Christian Spence
             href: https://x.com/ChristianSpence
+            target: _blank
           - text: Economic Analytics
             href: https://x.com/EconAnalyticsUK
+            target: _blank
       - icon: linkedin
         menu:
           - text: Christian Spence
             href: https://linkedin.com/in/christianspence
+            target: _blank
           - text: Economic Analytics
             href: https://linkedin.com/company/economic-analytics
+            target: _blank
       - icon: github
         menu:
           - text: Christian Spence
             href: https://github.com/ChristianSpence
+            target: _blank
           - text: Economic Analytics
             href: https://github.com/economic-analytics
+            target: _blank
           - text: Website source code
             href: https://github.com/ChristianSpence/christianspence.co.uk
+            target: _blank
+  page-footer: 
+    center: © Copyright 2026, [Christian Spence](https://christianspence.co.uk)
+    right: Built by [Economic Analytics](https://economic-analytics.co.uk) and powered by [Quarto](https://quarto.org)
 format:
   html:
     link-external-icon: true
