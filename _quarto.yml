@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  site-url: https://christianspence.co.uk
   title: "Christian Spence"
   navbar:
     pinned: true
@@ -14,7 +15,7 @@ website:
     right:
       - text: "Economic Analytics"
         href: https://economic-analytics.co.uk
-      - text: bsky
+      - icon: bluesky
         href: https://bsky.app/profile/christianspence.co.uk
       - icon: twitter-x
         menu:
@@ -38,5 +39,7 @@ website:
             href: https://github.com/ChristianSpence/christianspence.co.uk
 format:
   html:
+    link-external-icon: true
+    link-external-newwindow: true
     theme: default
     css: styles.css
